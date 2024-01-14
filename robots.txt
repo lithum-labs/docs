@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selene-discord-dev.github.io/docs/sitemap.xml.gz
