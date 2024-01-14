@@ -1,0 +1,22 @@
+input: .
+output: .retype
+locale: ja
+url: https://selene-discord-dev.github.io/docs
+
+branding:
+  title: Selene
+  label: Docs
+
+edit:
+  repo: "https://github.com/selene-discord-dev/edit/"
+  base: /docs
+
+links:
+# - text: Invite on Discord
+#   link: https://github.com/selene-discord-dev/selene
+- text: Github
+  link: https://github.com/selene-discord-dev/selene
+  icon: mark-github
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
